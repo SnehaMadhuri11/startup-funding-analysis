@@ -69,4 +69,5 @@ The dataset contains **3044 funding records** with **10 columns**:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/startup-funding-eda.git
+git clone https://github.com/Snehamadhuri11/startup-funding-analysis.git
+
